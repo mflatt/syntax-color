@@ -406,3 +406,8 @@ Same as @racketblock[(insert-last! tree
                                         [data v]))]
 
 This optimization is important for the colorer.}
+
+@; ----------------------------------------------------------------------
+
+@include-section["classified-text.scrbl"]
+@include-section["racket.scrbl"]
